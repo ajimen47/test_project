@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.green,
       ),
-      home: MyHomePage(title: 'Antonio\'s Practice App'),
+      home: MyHomePage(title: 'Antonio\'s Practice App!'),
     );
   }
 }
